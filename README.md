@@ -22,4 +22,4 @@ Question 6: Run the file MCB_TEST_Qu6.sql to create procedure
 
 **Output**
 
-There is **Main.sql** file which goes from question 1 to question 6 which the required execute commands to 
+The **Main.sql** file goes from question 1 to question 6 and contains the required execute commands to trigger migration process and display report outputs. 
