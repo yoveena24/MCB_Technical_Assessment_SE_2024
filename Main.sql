@@ -10,7 +10,7 @@ Run the script MCB_TEST_Qu2.sql
 
 /*
 Question 3
-Run the DataCleansing_Script.sql before creating the procedures
+Run the DataCleansing_Script.sql before creating the package
 Run the file MCB_TEST_Qu3.sql before running the below procedures
 */
 
@@ -31,7 +31,7 @@ EXECUTE GET_ORDER_INVOICE_SUMMARY;
 
 /*
 Question 5
-Run the file MCB_TEST_Qu5.sql before running the below procedure
+Run the file MCB_TEST_Qu5.sql before running the below function
 */
 SELECT *
 FROM TABLE(GET_X_HIGHEST_ORDER(3));
